@@ -25,6 +25,7 @@ with st.sidebar:
 
 # Main content
 if selected == 'Diabetes':
+    
     st.title('🩺 Diabetes Prediction')
     cols = st.columns(3)
     with cols[0]:
