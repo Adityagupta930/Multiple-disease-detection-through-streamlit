@@ -1,0 +1,1 @@
+# Multiple-disease-detection-through-streamlit
